@@ -1,3 +1,5 @@
+[![Tech Cartoon](https://img.freepik.com/free-vector/young-man-working-laptop-illustration_23-2148475407.jpg?w=740&t=st=1696380525~exp=1696381125~hmac=9e1e9c8e4e9b8f3b5c3c2b04f4f7a7d1b8b0a0f4f5d3e1d6c8a6a3b0a2c0c8d4)](https://www.freepik.com/free-vector/young-man-working-laptop-illustration_2148475407)
+
 # Hello👋, I'm Psammy
 -----------------------------------------------------
 ### A Frontend Developer.
