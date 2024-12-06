@@ -11,7 +11,11 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/psammmmmmy._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ampadu-psamuel-810a13297/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25106666/ampadu-psamuel) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/psamm-y) 
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/psammmmmmy._)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/ampadu-psamuel-810a13297/)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/25106666/ampadu-psamuel)
+[![Codepen](https://img.shields.io/badge/-Codepen-000000?logo=codepen&logoColor=white&style=for-the-badge)](https://codepen.io/psamm-y)
+
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
