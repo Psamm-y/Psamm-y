@@ -1,5 +1,13 @@
-# 💫 About Me:
-I'm currently learning Frontend: Html | CSS| JavaScript<br>Fun fact: I love collaboration 
+# Hello👋, I'm Psammy
+-----------------------------------------------------
+### A Frontend Developer.
+
+- 🏗️I'm currently working on *QuickHomes* <br>
+- 📖I'm currently learning **React**, **Java** <br>
+- 🤝I'mlooking to collaborate on **anything that'd require my expertise.**
+- ❓Ask me about Html-Css, Javascript
+- 📬How to reach me : ampadupsamuel1@gmail.com
+- 🥳Fun fact: I love collaborating on new stuffs. 
 
 
 ## 🌐 Socials:
