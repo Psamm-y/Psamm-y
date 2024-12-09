@@ -4,7 +4,9 @@
 
 </p>
 <h1 align="center" >
- Hello👋, I'm Psammy
+ Hello👋, I'm Psammy <a href="https://github.com/user-attachments/assets/42d8e26b-47b4-458c-8038-b3b9e68df68e">
+    <img src="https://github.com/user-attachments/assets/42d8e26b-47b4-458c-8038-b3b9e68df68e" alt="verified" width="20">
+</a>
 </h1>
 
 <h3 align="center">A Frontend Developer</h3>
@@ -16,14 +18,15 @@
 - 📬How to reach me : ampadupsamuel1@gmail.com
 - 🥘Fun fact: I love food 
 
-<img src="https://github.com/user-attachments/assets/e41fe0fb-c90c-438c-9bcd-63c44dd079fb" alt="Description" width="300" height="200">
 
 # 💻 Tech Stack:
-<img src="https://github.com/user-attachments/assets/e41fe0fb-c90c-438c-9bcd-63c44dd079fb" alt="Html5" width="60" height="60">
+<img src="https://github.com/user-attachments/assets/e41fe0fb-c90c-438c-9bcd-63c44dd079fb" alt="Html5" width="60" height="60" padding="10">
 <img src="https://github.com/user-attachments/assets/17a5033a-67aa-4a1c-a5b8-9e7aad88a004" alt="Css3" width="60" height="60">
 <img src="https://github.com/user-attachments/assets/29e2f545-a009-4e7d-95d0-74e5cd702695" alt="Java" width="60" height="60">
 <img src="https://github.com/user-attachments/assets/ad86dcc5-9cf7-453e-aa69-9827bc2500d5" alt="Adobe Photoshop" width="60" height="60">
 <img src="https://github.com/user-attachments/assets/20522a0e-b342-4157-8cab-09cb891805fc" alt="Javascript" width="60" height="60">
+<img src="https://github.com/user-attachments/assets/b9d51015-c56e-447f-8d70-2af8a0ab895b" alt="Javascript" width="60" height="60">
+<img src="https://github.com/user-attachments/assets/ff821656-3de7-4d68-8ce8-ae611196d543" alt="Javascript" width="60" height="60">
 
 
 
@@ -36,6 +39,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=Psamm-y&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ## 🌐 Socials:
+ <a href="https://www.instagram.com/psammmmmmy._/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/09c4b66d-bd88-4723-b78c-6c5ae463f237" alt="Instagram" width="40">
+</a>
+
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/psammmmmmy._)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/ampadu-psamuel-810a13297/)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/25106666/ampadu-psamuel)
