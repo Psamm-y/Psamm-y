@@ -11,18 +11,10 @@
 
 - 🏗️I'm currently working on *QuickHomes* <br>
 - 📖I'm currently learning **React**, **Java** <br>
-- 🤝I'mlooking to collaborate on **anything that'd require my expertise.**
+- 🤝I'm looking to collaborate on **anything that'd require my expertise.**
 - ❓Ask me about Html-Css, Javascript
 - 📬How to reach me : ampadupsamuel1@gmail.com
 - 🥘Fun fact: I love food 
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/psammmmmmy._)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/ampadu-psamuel-810a13297/)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/25106666/ampadu-psamuel)
-[![Codepen](https://img.shields.io/badge/-Codepen-000000?logo=codepen&logoColor=white&style=for-the-badge)](https://codepen.io/psamm-y)
-
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
@@ -40,6 +32,13 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Psamm-y&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/psammmmmmy._)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/ampadu-psamuel-810a13297/)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/25106666/ampadu-psamuel)
+[![Codepen](https://img.shields.io/badge/-Codepen-000000?logo=codepen&logoColor=white&style=for-the-badge)](https://codepen.io/psamm-y)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
