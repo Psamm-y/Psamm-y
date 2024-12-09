@@ -14,7 +14,7 @@
 - 🤝I'mlooking to collaborate on **anything that'd require my expertise.**
 - ❓Ask me about Html-Css, Javascript
 - 📬How to reach me : ampadupsamuel1@gmail.com
-- 🥳Fun fact: I love collaborating on new stuffs. 
+- 🥘Fun fact: I love food 
 
 
 ## 🌐 Socials:
