@@ -16,14 +16,16 @@
 - 📬How to reach me : ampadupsamuel1@gmail.com
 - 🥘Fun fact: I love food 
 
+<img src="https://github.com/user-attachments/assets/e41fe0fb-c90c-438c-9bcd-63c44dd079fb" alt="Description" width="300" height="200">
+
 # 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
+<img src="https://github.com/user-attachments/assets/e41fe0fb-c90c-438c-9bcd-63c44dd079fb" alt="Html5" width="60" height="60">
+<img src="https://github.com/user-attachments/assets/17a5033a-67aa-4a1c-a5b8-9e7aad88a004" alt="Css3" width="60" height="60">
+<img src="https://github.com/user-attachments/assets/29e2f545-a009-4e7d-95d0-74e5cd702695" alt="Java" width="60" height="60">
+<img src="https://github.com/user-attachments/assets/ad86dcc5-9cf7-453e-aa69-9827bc2500d5" alt="Adobe Photoshop" width="60" height="60">
+<img src="https://github.com/user-attachments/assets/20522a0e-b342-4157-8cab-09cb891805fc" alt="Javascript" width="60" height="60">
+
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Psamm-y&theme=blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
