@@ -1,9 +1,13 @@
-[![Tech Cartoon](https://img.freepik.com/free-vector/young-man-working-laptop-illustration_23-2148475407.jpg?w=740&t=st=1696380525~exp=1696381125~hmac=9e1e9c8e4e9b8f3b5c3c2b04f4f7a7d1b8b0a0f4f5d3e1d6c8a6a3b0a2c0c8d4)](https://www.freepik.com/free-vector/young-man-working-laptop-illustration_2148475407)
-<h3 align="center" font-size="6rem">
+<p align="center">
+
+ ![Samuel Ampadu](https://github.com/user-attachments/assets/59f6b224-b084-4b4c-8a5d-e2ca11cd0bb5)
+
+</p>
+<h1 align="center" >
  Hello👋, I'm Psammy
-</h3>
------------------------------------------------------
-A Frontend Developer.
+</h1>
+
+<h3 align="center">A Frontend Developer</h3>
 
 - 🏗️I'm currently working on *QuickHomes* <br>
 - 📖I'm currently learning **React**, **Java** <br>
