@@ -29,28 +29,36 @@
 <img src="https://github.com/user-attachments/assets/ff821656-3de7-4d68-8ce8-ae611196d543" alt="Javascript" width="60" height="60">
 
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Psamm-y&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+## 🌐 Socials:
+ <a href="https://www.instagram.com/psammmmmmy._/" target="_blank" text-decoration="none">
+    <img src="https://github.com/user-attachments/assets/09c4b66d-bd88-4723-b78c-6c5ae463f237" alt="Instagram" width="50">
+</a>
+
+ <a href="https://www.instagram.com/psammmmmmy._/" target="_blank" text-decoration="none">
+    <img src="https://github.com/user-attachments/assets/09c4b66d-bd88-4723-b78c-6c5ae463f237" alt="Instagram" width="50">
+</a>
+
+ <a href="https://www.linkedin.com/in/ampadu-samuel-810a13297/" target="_blank" text-decoration="none">
+    <img src="https://github.com/user-attachments/assets/91bbb843-7ae6-42f1-9d38-2cb15b056796" alt="Instagram" width="50">
+</a>
+
+ <a href="https://stackoverflow.com/users/25106666/ampadu-psamuel" target="_blank" text-decoration="none">
+    <img src="https://github.com/user-attachments/assets/52537bb4-4143-4617-ab5b-d1b63ad4084e" alt="Instagram" width="50">
+</a>
+
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Psamm-y&theme=blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Psamm-y&theme=blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Psamm-y&theme=blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Psamm-y&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-## 🌐 Socials:
- <a href="https://www.instagram.com/psammmmmmy._/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/09c4b66d-bd88-4723-b78c-6c5ae463f237" alt="Instagram" width="40">
-</a>
-
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/psammmmmmy._)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/ampadu-psamuel-810a13297/)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/25106666/ampadu-psamuel)
-[![Codepen](https://img.shields.io/badge/-Codepen-000000?logo=codepen&logoColor=white&style=for-the-badge)](https://codepen.io/psamm-y)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Psamm-y&limit=5&theme=blue&combine_all_yearly_contributions=true)
