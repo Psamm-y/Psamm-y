@@ -36,11 +36,6 @@
  <a href="https://www.instagram.com/psammmmmmy._/" target="_blank" text-decoration="none">
     <img src="https://github.com/user-attachments/assets/09c4b66d-bd88-4723-b78c-6c5ae463f237" alt="Instagram" width="50">
 </a>
-
- <a href="https://www.instagram.com/psammmmmmy._/" target="_blank" text-decoration="none">
-    <img src="https://github.com/user-attachments/assets/09c4b66d-bd88-4723-b78c-6c5ae463f237" alt="Instagram" width="50">
-</a>
-
  <a href="https://www.linkedin.com/in/ampadu-samuel-810a13297/" target="_blank" text-decoration="none">
     <img src="https://github.com/user-attachments/assets/91bbb843-7ae6-42f1-9d38-2cb15b056796" alt="Instagram" width="50">
 </a>
