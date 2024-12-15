@@ -11,17 +11,9 @@
 
 <h3 align="center">A Frontend Developer</h3>
 
-<picture>
-<!--   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nanadotam/nanadotam/blob/e8ec42dcb32f1426efdbfae9dbff7f85b163da20/github-contribution-grid-snake-dark.svg"> -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/psamm-y/psamm-y/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/psamm-y/psamm-y/blob/output/github-contribution-grid-snake.svg">
-<!--   <source media="(prefers-color-scheme: light)" srcset="https://github.com/nanadotam/nanadotam/blob/e8ec42dcb32f1426efdbfae9dbff7f85b163da20/github-contribution-grid-snake.svg"> -->
-  <img alt="github contribution grid snake animation" src="https://github.com/psamm-y/psamm-y/blob/e8ec42dcb32f1426efdbfae9dbff7f85b163da20/github-contribution-grid-snake.svg">
-</picture>
-
-<div align="center">
+<!--<div align="center">
   <img src="https://profile-counter.glitch.me/psamm-y/count.svg" alt="Visitor Count"/>
-</div>
+</div>-->
 
 - 🏗️I'm currently working on *QuickHomes* <br>
 - 📖I'm currently learning **React**, **Java** <br>
