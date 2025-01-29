@@ -26,11 +26,12 @@
 # 💻 Tech Stack:
 <img src="https://github.com/user-attachments/assets/e41fe0fb-c90c-438c-9bcd-63c44dd079fb" alt="Html5" width="60" height="60" padding="10">
 <img src="https://github.com/user-attachments/assets/17a5033a-67aa-4a1c-a5b8-9e7aad88a004" alt="Css3" width="60" height="60">
+<img src="https://github.com/user-attachments/assets/539afd03-38b5-490a-bd1c-d2ecfea7d85d" alt="Reactjs" width="60" height="60">
 <img src="https://github.com/user-attachments/assets/29e2f545-a009-4e7d-95d0-74e5cd702695" alt="Java" width="60" height="60">
-<img src="https://github.com/user-attachments/assets/ad86dcc5-9cf7-453e-aa69-9827bc2500d5" alt="Adobe Photoshop" width="60" height="60">
 <img src="https://github.com/user-attachments/assets/20522a0e-b342-4157-8cab-09cb891805fc" alt="Javascript" width="60" height="60">
-<img src="https://github.com/user-attachments/assets/b9d51015-c56e-447f-8d70-2af8a0ab895b" alt="Javascript" width="60" height="60">
-<img src="https://github.com/user-attachments/assets/ff821656-3de7-4d68-8ce8-ae611196d543" alt="Javascript" width="60" height="60">
+<img src="https://github.com/user-attachments/assets/ad86dcc5-9cf7-453e-aa69-9827bc2500d5" alt="Adobe Photoshop" width="60" height="60">
+<img src="https://github.com/user-attachments/assets/b9d51015-c56e-447f-8d70-2af8a0ab895b" alt="Figma" width="60" height="60">
+<img src="https://github.com/user-attachments/assets/ff821656-3de7-4d68-8ce8-ae611196d543" alt="Markdown" width="60" height="60">
 
 
 ## 🏆 GitHub Trophies
