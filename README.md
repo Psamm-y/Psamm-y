@@ -18,9 +18,9 @@
 - 🏗️I'm currently working on *QuickHomes* <br>
 - 📖I'm currently learning **React**, **Java** <br>
 - 🤝I'm looking to collaborate on **anything that'd require my expertise.**
-- ❓Ask me about Html-Css, Javascript
-- 📬How to reach me : ampadupsamuel1@gmail.com
-- 🥘Fun fact: I love food 
+- ❓Ask me about **Java, React**
+- 📬How to reach me : **ampadupsamuel1@gmail.com**
+- 🥘Fun fact: **I love food** 
 
 
 # 💻 Tech Stack:
