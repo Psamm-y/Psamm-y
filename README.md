@@ -9,7 +9,7 @@
 </a>
 </h1>
 
-<h3 align="center">A Frontend Developer</h3>
+<h3 align="center">A Frontend Developer && Open Source Contributor</h3>
 
 <!--<div align="center">
   <img src="https://profile-counter.glitch.me/psamm-y/count.svg" alt="Visitor Count"/>
@@ -17,7 +17,7 @@
 
 - 🏗️I'm currently working on *QuickHomes* <br>
 - 📖I'm currently learning **React**, **Java** <br>
-- 🤝I'm looking to collaborate on **anything that'd require my expertise.**
+- 🤝I'm looking to collaborate on **projects**
 - ❓Ask me about **Java, React**
 - 📬How to reach me : **ampadupsamuel1@gmail.com**
 - 🥘Fun fact: **I love food** 
@@ -31,10 +31,12 @@
 <img src="https://github.com/user-attachments/assets/29e2f545-a009-4e7d-95d0-74e5cd702695" alt="Java" width="60" height="60">
 <img src="https://github.com/user-attachments/assets/20522a0e-b342-4157-8cab-09cb891805fc" alt="Javascript" width="60" height="60">
 <img src="https://github.com/user-attachments/assets/96238a01-9145-42b4-b234-49dec8215847" alt="PostgreSQL" width="60" height="60">
+<img src="https://github.com/user-attachments/assets/78668209-f3e4-416c-97bf-49455e583dbf" alt="Git" width="60" height="60">
 <img src="https://github.com/user-attachments/assets/ad86dcc5-9cf7-453e-aa69-9827bc2500d5" alt="Adobe Photoshop" width="60" height="60">
 <img src="https://github.com/user-attachments/assets/b9d51015-c56e-447f-8d70-2af8a0ab895b" alt="Figma" width="60" height="60">
 <img src="https://github.com/user-attachments/assets/ff821656-3de7-4d68-8ce8-ae611196d543" alt="Markdown" width="60" height="60">
 
+https://github.com/user-attachments/assets/78668209-f3e4-416c-97bf-49455e583dbf
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Psamm-y&theme=radical&no-frame=true&no-bg=false&margin-w=4)
