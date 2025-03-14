@@ -36,10 +36,14 @@
 <img src="https://github.com/user-attachments/assets/b9d51015-c56e-447f-8d70-2af8a0ab895b" alt="Figma" width="60" height="60">
 <img src="https://github.com/user-attachments/assets/ff821656-3de7-4d68-8ce8-ae611196d543" alt="Markdown" width="60" height="60">
 
-https://github.com/user-attachments/assets/78668209-f3e4-416c-97bf-49455e583dbf
+###
+
+<br clear="both">
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Psamm-y&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+<br clear="both">
 
 ## 🌐 Socials:
  <a href="https://www.instagram.com/psammmmmmy._/" target="_blank" text-decoration="none">
