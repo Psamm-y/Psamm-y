@@ -16,7 +16,7 @@
 </div>-->
 
 - 🏗️I'm currently working on *QuickHomes* <br>
-- 📖I'm currently learning **React**, **Java** <br>
+- 📖I'm currently learning **React**
 - 🤝I'm looking to collaborate on **projects**
 - ❓Ask me about **Java, React**
 - 📬How to reach me : **ampadupsamuel1@gmail.com**
