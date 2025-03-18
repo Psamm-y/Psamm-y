@@ -72,7 +72,6 @@
 </a>
 
 
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
@@ -86,6 +85,9 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Psamm-y&limit=5&theme=blue&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Psamm-y&icon=8&color=1)](https://visitcount.itsvg.in)
+
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{psamm-y}/count.svg" alt="Psamm-y :: Visitor's Count" /></p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
