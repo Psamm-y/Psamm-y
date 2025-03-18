@@ -85,6 +85,13 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Psamm-y&limit=5&theme=blue&combine_all_yearly_contributions=true)
 
 ---
+<p align="center">
+  <a href="https://github.com/psamm-y">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=psamm-y&theme=radical" alt="Psammy"/>
+  </a>
+</p>
+
+![psamm-y's Graph](https://github-readme-activity-graph.vercel.app/graph?username=psamm-y&custom_title=Psammy's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
