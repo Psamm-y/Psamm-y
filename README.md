@@ -72,17 +72,25 @@
 </a>
 
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Psamm-y&theme=blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Psamm-y&theme=blue&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Psamm-y&theme=blue&hide_border=false)<br/>
+<div align="center">
+ 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Psamm-y&theme=blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+</div>
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
+<div align="center">
+ 
 ![](https://github-contributor-stats.vercel.app/api?username=Psamm-y&limit=5&theme=blue&combine_all_yearly_contributions=true)
+
+</div>
+
 
 ---
 <p align="center">
