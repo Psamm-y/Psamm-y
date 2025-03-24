@@ -11,6 +11,7 @@
 
 <h3 align="center">A Frontend Developer && Open Source Contributor</h3>
 
+[![An image of @psammy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/psammy)](https://holopin.io/@psammy)
 <!--<div align="center">
   <img src="https://profile-counter.glitch.me/psamm-y/count.svg" alt="Visitor Count"/>
 </div>-->
