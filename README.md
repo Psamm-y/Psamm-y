@@ -26,8 +26,10 @@
 # 💻 Tech Stack:
 <img src="https://github.com/user-attachments/assets/e41fe0fb-c90c-438c-9bcd-63c44dd079fb" alt="Html5" width="60" height="60" padding="10">
 <img src="https://github.com/user-attachments/assets/17a5033a-67aa-4a1c-a5b8-9e7aad88a004" alt="Css3" width="60" height="60">
-<img src="https://github.com/user-attachments/assets/539afd03-38b5-490a-bd1c-d2ecfea7d85d" alt="Reactjs" width="60" height="60">
+<img src="https://github.com/user-attachments/assets/1ec712da-3a0f-4bff-9273-11d8d0168503" alt="Reactjs" width="60" height="60">
+<img src="https://github.com/user-attachments/assets/68c2d1ec-3041-49b8-8b2a-ee6f22ccc33f" alt="tailwindcss" width="60" height="60">
 <img src="https://github.com/user-attachments/assets/e32c8058-1a7f-42be-b004-84c28c997db7" alt="Vite" width="60" height="60">
+<img src="https://github.com/user-attachments/assets/29616177-50a7-4826-8273-b0ae7fde037e" alt="nextjs" width="60" height="60">
 <img src="https://github.com/user-attachments/assets/29e2f545-a009-4e7d-95d0-74e5cd702695" alt="Java" width="60" height="60">
 <img src="https://github.com/user-attachments/assets/20522a0e-b342-4157-8cab-09cb891805fc" alt="Javascript" width="60" height="60">
 <img src="https://github.com/user-attachments/assets/96238a01-9145-42b4-b234-49dec8215847" alt="PostgreSQL" width="60" height="60">
