@@ -15,10 +15,7 @@
   <img src="https://profile-counter.glitch.me/psamm-y/count.svg" alt="Visitor Count"/>
 </div>-->
 
-- 🏗️I'm currently working on *QuickHomes* <br>
-- 📖I'm currently learning **React**
 - 🤝I'm looking to collaborate on **projects**
-- ❓Ask me about **Java, React**
 - 📬How to reach me : **ampadupsamuel1@gmail.com**
 - 🥘Fun fact: **I love food** 
 
@@ -77,30 +74,30 @@
 </a>
 
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<!--## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)-->
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Psamm-y&theme=blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Psamm-y&theme=blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Psamm-y&theme=blue&hide_border=false)
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Psamm-y&limit=5&theme=blue&combine_all_yearly_contributions=true)
+<!--## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Psamm-y&limit=5&theme=blue&combine_all_yearly_contributions=true)-->
 
 
 
 ---
-<p align="center">
+<p >
   <a href="https://github.com/psamm-y">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=psamm-y&theme=radical" alt="Psammy"/>
   </a>
 </p>
 
-![psamm-y's Graph](https://github-readme-activity-graph.vercel.app/graph?username=psamm-y&custom_title=Psammy's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<!--![psamm-y's Graph](https://github-readme-activity-graph.vercel.app/graph?username=psamm-y&custom_title=Psammy's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)-->
 
-<h4 align="center">Visitor's count :eyes:</h4>
+<!--<h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{psamm-y}/count.svg" alt="Psamm-y :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{psamm-y}/count.svg" alt="Psamm-y :: Visitor's Count" /></p>-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
