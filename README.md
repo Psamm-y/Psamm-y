@@ -49,7 +49,7 @@
 <td align="center">
 <a href="https://s2apertre.resourcio.in"><img src="https://s2apertre.resourcio.in/Logo_primary.svg" height="140px" width="180px" alt="Apertre 2025"></a> 
  <br> 
- <sub><b>Apertre 2.0 2k25</b></sub>
+ <sub><b>https://s2apertre.resourcio.in/leaderboard </b></sub>
 </td>
  
  [![An image of @psammy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/psammy)](https://holopin.io/@psammy)
